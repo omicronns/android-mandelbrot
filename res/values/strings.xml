@@ -3,10 +3,5 @@
 
     <string name="app_name">Mandelbrot</string>
     <string name="action_settings">Settings</string>
-    <string name="left_x_hint">Left X</string>
-    <string name="right_x_hint">Right X</string>
-    <string name="bottom_y_hint">Bottom Y</string>
-    <string name="top_y_hint">Top Y</string>
-    <string name="render_button_text">Render</string>
 
 </resources>
